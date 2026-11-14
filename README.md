@@ -10,7 +10,7 @@ The site brings together selected roles, brand experience, services, skills, pro
 
 ## Sections
 
-- **About** — background, location, and work preferences
+- **About** - background, location, and work preferences
 - **Services** — digital marketing, market analysis, and creative work
 - **Experience** — selected roles and associated brands
 - **Education & Certifications** — computing diplomas and English proficiency
