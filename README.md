@@ -27,30 +27,6 @@ Selected web work includes the [Circuit Media website](https://circuitmedia.site
 - Framer Motion
 - Lucide React icons
 
-## Run Locally
-
-Requirements: Node.js and npm.
-
-```bash
-git clone https://github.com/pyaezaw03a/PyaeZawPortfolio.git
-cd PyaeZawPortfolio
-npm ci
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000).
-
-To create a production build:
-
-```bash
-npm run build
-```
-
-To build with the GitHub Pages path settings:
-
-```bash
-GITHUB_PAGES=true npm run build
-```
 
 ## Project Layout
 
@@ -61,10 +37,6 @@ GITHUB_PAGES=true npm run build
 - `.github/workflows/deploy.yml` — GitHub Pages build and deployment
 
 Most portfolio content can be updated in `data/portfolio.ts`.
-
-## Deployment
-
-The GitHub Actions workflow builds and publishes the static site when changes are pushed to `main`.
 
 ## Contact
 
